@@ -4,7 +4,7 @@
   <img alt="Pento AI" src="https://raw.githubusercontent.com/pentoai/.github/main/profile/pento-logo-dark.png" width="280">
 </picture>
 
-## We build AI that moves metrics, not slides.
+## We build AI that moves metrics
 
 Pento is a team of **Machine Learning and Software Engineers** who design, build, and deploy AI systems that solve real business problems. From semantic search and recommendation engines to computer vision and generative AI, we deliver end-to-end — from research and prototyping through production.
 
