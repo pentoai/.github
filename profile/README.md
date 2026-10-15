@@ -14,9 +14,11 @@ Our engineering team brings deep hands-on expertise across ML, full-stack develo
 
 We contribute tools and research back to the community, with a focus on **AI-powered search** and **ML workflows**:
 
-- **[vectory](https://github.com/pentoai/vectory)** — Track and compare embedding versions. Essential tooling for teams iterating on search and retrieval systems.
+- **[minicoil-en-es](https://github.com/pentoai/minicoil-en-es)** — miniCOIL EN-ES, co-built with [Qdrant](https://qdrant.tech/articles/minicoil-en-es/): a sparse retriever that matches English and Spanish in a single index, with no translation step. Model on [Hugging Face](https://huggingface.co/Jocana/minicoil-en-es).
+- **[alphaXiv MCP](https://www.alphaxiv.org/docs/mcp)** — With [alphaXiv](https://www.alphaxiv.org/about): an MCP server that brings alphaXiv's research corpus into Claude Code, Cursor, and other AI coding tools. See [from research paper to production](https://www.pento.ai/blog/research-paper-to-production).
 - **[ml-ralph](https://github.com/pentoai/ml-ralph)** — An autonomous ML research agent that runs experiments, maintains a living plan, and learns as it goes.
-- **[x-unet](https://github.com/pentoai/x-unet)** — U-Net implementation with efficient attention, incorporating the latest research.
+- **[vectory](https://github.com/pentoai/vectory)** — Track and compare embedding versions. Essential tooling for teams iterating on search and retrieval systems.
+- **[streamlit-terran-timeline](https://github.com/pentoai/streamlit-terran-timeline)** — A Streamlit component that builds face-recognition timelines for videos.
 
 ### Get in touch
 
